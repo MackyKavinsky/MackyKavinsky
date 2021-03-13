@@ -1,4 +1,4 @@
-### Hey there! 👋 My name is Mac (Mackykavinsky)
+## Hey there! 👋 My name is Mac (Mackykavinsky)
 
 <!--
 **MackyKavinsky/MackyKavinsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -10,4 +10,4 @@ I graduated as Data Science student. Exploring new things or how things work exc
 - 💬 Looking forward to join as intern/full time candidate in Data Science area company or startup.
 - ⚡ Fun fact: Python was NOT named after a snake. 
 
-# Thank you and nice to meet you! </>
+### Thank you and nice to meet you! </>
