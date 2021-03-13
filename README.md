@@ -8,7 +8,6 @@ I graduated as Data Science student. Exploring new things or how things work exc
 - 🔭 I’m currently intern under Data Science company.
 - 🌱 I’m currently learning how to develop application and how to extract information from raw data. 
 - 💬 Looking forward to join as intern/full time candidate in Data Science area company or startup.
-- 📫 How to reach me: ...
 - ⚡ Fun fact: Python was NOT named after a snake. 
 
 # Thank you and nice to meet you! </>
