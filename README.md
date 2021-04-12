@@ -11,3 +11,4 @@ I graduated as Data Science student. Exploring new things or how things work exc
 - ⚡ Fun fact: Python was NOT named after a snake. 
 
 ### Thank you and nice to meet you! </>
+ 
